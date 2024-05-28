@@ -1,0 +1,21 @@
+{
+  "name": "node-mongooes",
+  "version": "1.0.0",
+  "description": "Node Mongooes Example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "keywords": [
+    "Mongoose"
+  ],
+  "author": "ME",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^2.1.0",
+    "mongodb": "^3.5.9",
+    "mongoose": "^6.12.9",
+    "mongosh": "^1.10.6"
+  }
+}
